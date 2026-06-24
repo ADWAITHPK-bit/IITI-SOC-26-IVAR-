@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.545514033976554,
+          47.39781319617895
+        ]
+      },
+      "properties": {
+        "cluster_id": -1,
+        "confidence": 0.4195398986339569,
+        "detection_count": 3,
+        "timestamp": 1782230144.6558247
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.545542427022907,
+          47.3977997376577
+        ]
+      },
+      "properties": {
+        "cluster_id": 0,
+        "confidence": 0.42616434892018634,
+        "detection_count": 3,
+        "timestamp": 1782230138.3786895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.545687793739932,
+          47.397805300835564
+        ]
+      },
+      "properties": {
+        "cluster_id": 1,
+        "confidence": 0.501889488526753,
+        "detection_count": 7,
+        "timestamp": 1782230138.498105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54559856612364,
+          47.39777482923468
+        ]
+      },
+      "properties": {
+        "cluster_id": 2,
+        "confidence": 0.4303004188197,
+        "detection_count": 7,
+        "timestamp": 1782230140.3593285
+      }
+    }
+  ]
+}
